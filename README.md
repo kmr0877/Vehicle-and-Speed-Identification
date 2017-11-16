@@ -39,8 +39,6 @@ Contributions are always welcome in the form of pull requests with explanatory c
 
 You are allowed to add any cascade file to the repository
 
-You are allowed to download the .py code and make suitable changes according to your convienience
-
 For any queries or suggestions write to kmr0877@gmail.com / mohan.kagita@student.unsw.edu.au
 
 Your contribution is highly appreciated.
