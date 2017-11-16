@@ -24,15 +24,6 @@ Compile the speed_detect.py program in a usual OpenCV compilation way.
 
 Run the code : example : ./speed_detect.py 
 
-Make sure the image also is in the same folder,otherwise while execution you need to give the absolute path of the image.
-
-
-# _Contributors:_
-
-[@kmr0877](https://github.com/kmr0877)
-
-[@suryaavala](https://github.com/suryaavala)
-
 
 # _Future Contributors :_
 
