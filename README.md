@@ -29,9 +29,10 @@ Make sure the image also is in the same folder,otherwise while execution you nee
 
 # _Contributors:_
 
-@kmr0877
+([@kmr0877](https://github.com/kmr0877))
 
-@suryaavala
+([@suryaavala](https://github.com/suryaavala))
+
 
 # _Future Contributors :_
 
