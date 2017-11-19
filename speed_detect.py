@@ -1,14 +1,17 @@
 #!/usr/bin/python
-#written by mohan for COMP9517
-#calculates speed of vehicles in realtime in km/hr
-#this code mainly focusses on detecting and tracking cars by using trained  classifier which already has features of cars
+'''
+written by mohan for COMP9517
+calculates speed of vehicles in realtime in km/hr
+this code mainly focusses on detecting and tracking cars by using trained  classifier which already has features of cars
 
-#key_formula =  ( speed in object plane / distance of camera from road ) = ( speed in image plane / focal length )
-#approx fps of the video = 30
+key_formula =  ( speed in object plane / distance of camera from road ) = ( speed in image plane / focal length )
+approx fps of the video = 30
 
-#to obtain accurate value distance to object (mm)  =   focal length (mm) * real height of the object (mm) * image height (pixels)
-                 #                                      ----------------------------------------------------------------
-              #                                                   object height (pixels) * sensor height (mm)
+to obtain accurate value distance to object (mm)  =   focal length (mm) * real height of the object (mm) * image height (pixels)
+                                                       ----------------------------------------------------------------
+                                                                 object height (pixels) * sensor height (mm)
+
+'''
 import cv2
 import skvideo.io
 import numpy as np
